@@ -6,6 +6,6 @@ package com.example.sm.badge;
 
 public class Utils {
     public static String getVersion(){
-        return "1.0.0";
+        return "1.0.1";
     }
 }
